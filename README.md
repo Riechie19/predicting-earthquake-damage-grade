@@ -23,4 +23,4 @@ Our findings indicate that LightGBM outperforms other models in terms of F1 scor
 Specifically, the label-encoded original dataset yielded the best results for the LightGBM model. 
 We hypothesize that this higher performance is due to each feature's significant contribution to 
 predicting damage grade and the ordinal nature of the categorical features, making label encoding 
-the more appropriate choice for this dataset.
+the more appropriate choice for this dataset. These results are thoroughly documented in this [paper](https://drive.google.com/file/d/1ISDvR6NVuFnQZDTDmHZFmWBJ7J_CU98I/view?usp=sharing).
